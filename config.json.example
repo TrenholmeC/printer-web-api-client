@@ -1,0 +1,6 @@
+{
+    "key": "<printer-key>",
+    "api": "http://localhost:3000/api/",
+    "ipp": "ipp://192.168.0.0/ipp/print",
+    "dev": "<printer-device-name>"
+}
